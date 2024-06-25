@@ -14,9 +14,13 @@ To run the application locally, follow these steps:
 
 ## Features
 **Header:** Displays the quiz logo and title.
+
 **Question Timer:** Counts down the time available to answer each question.
+
 **Question Component:** Renders each question with its corresponding answers.
+
 **Answer Component:** Allows users to select an answer from a randomized list.
+
 **Summary Component:** Displays quiz completion statistics including skipped, correct, and incorrect answers.
 
 ## Components
@@ -46,5 +50,7 @@ The quiz questions and answers are sourced from a static data file `questions.js
 
 ## Technologies Used
 **React:** JavaScript library for building user interfaces.
+
 **JavaScript (ES6+):** Modern JavaScript syntax used throughout the application.
+
 **CSS:** Styling the components for a better user interface.
